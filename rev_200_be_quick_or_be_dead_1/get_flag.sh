@@ -1,0 +1,3 @@
+#!/bin/bash
+
+# launch with r2 and dc, dc, dc...

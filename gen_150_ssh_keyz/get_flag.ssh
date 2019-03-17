@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# connect with ssh and get the flag in the banner
+../ssh.sh
